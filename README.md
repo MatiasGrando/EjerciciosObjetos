@@ -8,5 +8,6 @@ Emula el juego Ahorcado
 * [`Acciones.h`](/Acciones.h).
 * [Comunicados.h](/Comunicados.h).
                 
-3. Implementación * [`Acciones.cpp`](/Acciones.cpp).
-                   * [`Comunicados.cpp`](/Comunicados.cpp).
+3. Implementación
+* [`Acciones.cpp`](/Acciones.cpp).
+* [`Comunicados.cpp`](/Comunicados.cpp).
