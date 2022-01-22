@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1642815840 source:e:\users\matias\desktop\programas codeblock\ahorcado\comunicados.cpp
+	"Comunicados.h"
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+
+1642815840 e:\users\matias\desktop\programas codeblock\ahorcado\comunicados.h
+	<iostream>
+
+1642815560 source:e:\users\matias\desktop\programas codeblock\ahorcado\acciones.cpp
+	"Acciones.h"
+	<iostream>
+	<string>
+
+1642815494 e:\users\matias\desktop\programas codeblock\ahorcado\acciones.h
+	"Comunicados.h"
+
+1604369943 source:e:\users\matias\desktop\programas codeblock\ahorcado\main.cpp
+	"Acciones.h"
+
