@@ -3,4 +3,4 @@
 Esta es un repositorio con distintos proyectos sencillos de TDA trabajados con objetos!
 
 * AHORCADO 
-* [MOLINETE](EjerciciosObjetos/Molinete) 
+* [MOLINETE](MatiasGrando/EjerciciosObjetos/tree/Molinete) 
