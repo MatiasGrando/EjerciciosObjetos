@@ -4,8 +4,8 @@ Es un programa que permite contabilizar la cantidad de personas que entran a un 
 
 Desarrollamos la aplicación básica definiendo e implementando la entidad Molinete.
 
-⋅⋅*aplicación : accesos.cpp
-⋅⋅*declaración : Molinete.h
-..*implementación : Molinete.cpp
+* aplicación : accesos.cpp
+⋅⋅* declaración : Molinete.h
+* implementación : Molinete.cpp
 
-*
+
