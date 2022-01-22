@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1642806651 source:e:\users\matias\desktop\programas codeblock\molinete\molinete.cpp
+	"Molinete.h"
+
+1642808359 source:e:\users\matias\desktop\programas codeblock\molinete\main.cpp
+	<iostream>
+	"Molinete.h"
+	<stdlib.h>
+	<stdio.h>
+
+1642806616 e:\users\matias\desktop\programas codeblock\molinete\molinete.h
+
