@@ -6,6 +6,6 @@ Desarrollamos la aplicación básica definiendo e implementando la entidad Molin
 
 * aplicación : [Main.cpp](https://github.com/MatiasGrando/EjerciciosObjetos/blob/Molinete/main.cpp)
 * declaración : [Molinete.h](https://github.com/MatiasGrando/EjerciciosObjetos/blob/Molinete/Molinete.h)
-* implementación :[Molinete.cpp](https://github.com/MatiasGrando/EjerciciosObjetos/blob/Molinete/Molinete.cpp)
+* implementación :[Molinete.cpp](/Molinete.cpp)
 
 
